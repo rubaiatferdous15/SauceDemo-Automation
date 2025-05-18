@@ -27,7 +27,8 @@ conftest.py                # fixtures: credentials, product list
 pytest.ini                 # common Pytest opts
 requirements.txt
 README.md
----
+
+```
 
 
 ## 🧰 Tech Stack
