@@ -13,6 +13,7 @@ This is a test automation project that uses **Python**, **Playwright**, and **Py
 ✅ HTML test report generation
 ---
 
+```
 ## 📁 Project Structure
 
 Pages/
